@@ -1,4 +1,4 @@
-package candyMachine;
+package CandyMachineClasses;
 
 import java.util.Scanner;
 
@@ -77,3 +77,4 @@ public class CandyMachine {
 			System.out.println("Sorry this item is sold out.\n");
 	}
 }
+
